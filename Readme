@@ -1,2 +1,5 @@
-Technology experiences list: 
-1. 
+Welcome to my repo, here are my experiences as a fullstack developer: 
+- Frontend: HTML, CSS, LESS, Bootstrap, Blazor, Syncfusion, MudBlazor, Javascript, Polymer and Redux 
+- Backend: C#, .NET8, ASP.CORE, Entity Framework, JSON, Rest-API, MSSQL and Firebird 
+- Tools: Azure Devops, Docker, Figma 
+- Security: Session, Token, secure api-endpoints, web-component security, webpage security and implementation of user-rights from database to application by bits(flags).
